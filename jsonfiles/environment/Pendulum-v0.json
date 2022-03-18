@@ -1,0 +1,11 @@
+{
+    "environment": "Pendulum-v0",
+
+    "TotalMilSteps": 0.02,
+    "EpisodeSteps": -1,
+    "XAxisSteps": 200,
+    "XAxisFormatingSteps": 1000,
+
+    "EvalIntervalMilSteps": 0.005,
+    "EvalEpisodes": 3
+}

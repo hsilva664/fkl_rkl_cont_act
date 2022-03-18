@@ -1,0 +1,52 @@
+{
+  "cols": 9,
+  "endingBlockIdx": [
+    8,
+    8
+  ],
+  "endingPoint": [
+    8.5,
+    8.5
+  ],
+  "haveMisleadingBlock": true,
+  "misleadingPoint_list": [
+    [
+      0.5,
+      0.5
+    ]
+  ],
+  "misleadingBlockIdx_list": [
+    [
+      0,
+      0
+    ]
+  ],
+  "haveEndingBlock": true,
+  "haveStartingBlock": true,
+  "name": "9_by_9_map",
+  "obstacleIndices": [
+  ],
+  "origin": [
+    0,
+    0
+  ],
+  "outOfBoundValue": -20,
+  "rows": 9,
+  "startingBlockIdx": [
+    4,
+    4
+  ],
+  "startingPoint": [
+    4.5,
+    4.5
+  ],
+  "stepSize": [
+    1,
+    1
+  ],
+  "valueEndingBlock": 5000,
+  "valueNormalBlock": -1,
+  "valueObstacleBlock": -20,
+  "valueStartingBlock": -1,
+  "valueMisleadingBlock": 0
+}
